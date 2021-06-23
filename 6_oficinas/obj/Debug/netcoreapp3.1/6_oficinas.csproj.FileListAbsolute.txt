@@ -1,0 +1,13 @@
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\6_oficinas\bin\Debug\netcoreapp3.1\6_oficinas.exe
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\6_oficinas\bin\Debug\netcoreapp3.1\6_oficinas.deps.json
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\6_oficinas\bin\Debug\netcoreapp3.1\6_oficinas.runtimeconfig.json
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\6_oficinas\bin\Debug\netcoreapp3.1\6_oficinas.runtimeconfig.dev.json
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\6_oficinas\bin\Debug\netcoreapp3.1\6_oficinas.dll
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\6_oficinas\bin\Debug\netcoreapp3.1\6_oficinas.pdb
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\6_oficinas\obj\Debug\netcoreapp3.1\6_oficinas.csproj.AssemblyReference.cache
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\6_oficinas\obj\Debug\netcoreapp3.1\6_oficinas.AssemblyInfoInputs.cache
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\6_oficinas\obj\Debug\netcoreapp3.1\6_oficinas.AssemblyInfo.cs
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\6_oficinas\obj\Debug\netcoreapp3.1\6_oficinas.csproj.CoreCompileInputs.cache
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\6_oficinas\obj\Debug\netcoreapp3.1\6_oficinas.dll
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\6_oficinas\obj\Debug\netcoreapp3.1\6_oficinas.pdb
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\6_oficinas\obj\Debug\netcoreapp3.1\6_oficinas.genruntimeconfig.cache
