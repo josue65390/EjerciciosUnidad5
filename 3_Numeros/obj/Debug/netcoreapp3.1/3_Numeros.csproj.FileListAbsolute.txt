@@ -1,0 +1,13 @@
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\3_Numeros\bin\Debug\netcoreapp3.1\3_Numeros.exe
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\3_Numeros\bin\Debug\netcoreapp3.1\3_Numeros.deps.json
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\3_Numeros\bin\Debug\netcoreapp3.1\3_Numeros.runtimeconfig.json
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\3_Numeros\bin\Debug\netcoreapp3.1\3_Numeros.runtimeconfig.dev.json
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\3_Numeros\bin\Debug\netcoreapp3.1\3_Numeros.dll
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\3_Numeros\bin\Debug\netcoreapp3.1\3_Numeros.pdb
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\3_Numeros\obj\Debug\netcoreapp3.1\3_Numeros.csproj.AssemblyReference.cache
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\3_Numeros\obj\Debug\netcoreapp3.1\3_Numeros.AssemblyInfoInputs.cache
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\3_Numeros\obj\Debug\netcoreapp3.1\3_Numeros.AssemblyInfo.cs
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\3_Numeros\obj\Debug\netcoreapp3.1\3_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\3_Numeros\obj\Debug\netcoreapp3.1\3_Numeros.dll
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\3_Numeros\obj\Debug\netcoreapp3.1\3_Numeros.pdb
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\3_Numeros\obj\Debug\netcoreapp3.1\3_Numeros.genruntimeconfig.cache
