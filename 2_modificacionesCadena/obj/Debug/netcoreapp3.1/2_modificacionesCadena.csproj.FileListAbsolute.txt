@@ -1,0 +1,13 @@
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\2_modificacionesCadena\bin\Debug\netcoreapp3.1\2_modificacionesCadena.exe
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\2_modificacionesCadena\bin\Debug\netcoreapp3.1\2_modificacionesCadena.deps.json
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\2_modificacionesCadena\bin\Debug\netcoreapp3.1\2_modificacionesCadena.runtimeconfig.json
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\2_modificacionesCadena\bin\Debug\netcoreapp3.1\2_modificacionesCadena.runtimeconfig.dev.json
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\2_modificacionesCadena\bin\Debug\netcoreapp3.1\2_modificacionesCadena.dll
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\2_modificacionesCadena\bin\Debug\netcoreapp3.1\2_modificacionesCadena.pdb
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\2_modificacionesCadena\obj\Debug\netcoreapp3.1\2_modificacionesCadena.csproj.AssemblyReference.cache
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\2_modificacionesCadena\obj\Debug\netcoreapp3.1\2_modificacionesCadena.AssemblyInfoInputs.cache
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\2_modificacionesCadena\obj\Debug\netcoreapp3.1\2_modificacionesCadena.AssemblyInfo.cs
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\2_modificacionesCadena\obj\Debug\netcoreapp3.1\2_modificacionesCadena.csproj.CoreCompileInputs.cache
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\2_modificacionesCadena\obj\Debug\netcoreapp3.1\2_modificacionesCadena.dll
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\2_modificacionesCadena\obj\Debug\netcoreapp3.1\2_modificacionesCadena.pdb
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\2_modificacionesCadena\obj\Debug\netcoreapp3.1\2_modificacionesCadena.genruntimeconfig.cache
