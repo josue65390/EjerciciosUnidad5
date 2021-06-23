@@ -1,0 +1,13 @@
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\1_lectura_numeros\bin\Debug\netcoreapp3.1\1_lectura_numeros.exe
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\1_lectura_numeros\bin\Debug\netcoreapp3.1\1_lectura_numeros.deps.json
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\1_lectura_numeros\bin\Debug\netcoreapp3.1\1_lectura_numeros.runtimeconfig.json
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\1_lectura_numeros\bin\Debug\netcoreapp3.1\1_lectura_numeros.runtimeconfig.dev.json
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\1_lectura_numeros\bin\Debug\netcoreapp3.1\1_lectura_numeros.dll
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\1_lectura_numeros\bin\Debug\netcoreapp3.1\1_lectura_numeros.pdb
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\1_lectura_numeros\obj\Debug\netcoreapp3.1\1_lectura_numeros.csproj.AssemblyReference.cache
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\1_lectura_numeros\obj\Debug\netcoreapp3.1\1_lectura_numeros.AssemblyInfoInputs.cache
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\1_lectura_numeros\obj\Debug\netcoreapp3.1\1_lectura_numeros.AssemblyInfo.cs
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\1_lectura_numeros\obj\Debug\netcoreapp3.1\1_lectura_numeros.csproj.CoreCompileInputs.cache
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\1_lectura_numeros\obj\Debug\netcoreapp3.1\1_lectura_numeros.dll
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\1_lectura_numeros\obj\Debug\netcoreapp3.1\1_lectura_numeros.pdb
+C:\Users\Carolyn\source\repos\EjerciciosSegundoSemestre\1_lectura_numeros\obj\Debug\netcoreapp3.1\1_lectura_numeros.genruntimeconfig.cache
